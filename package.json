@@ -1,5 +1,5 @@
 {
-    "name": "scratch-l10n-xxbc",
+    "name": "scratch-l10n-more",
     "version": "0.0.1",
     "description": "Localization for the Scratch 3.0 components",
     "main": "./dist/l10n.js",
@@ -32,14 +32,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/weijiahui1/scratch-l10n-xxbc.git"
+        "url": "git+https://github.com/weijiahui1/scratch-l10n-more.git"
     },
     "author": "Massachusetts Institute of Technology",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/weijiahui1/scratch-l10n-xxbc/issues"
+        "url": "https://github.com/weijiahui1/scratch-l10n-more/issues"
     },
-    "homepage": "https://github.com/weijiahui1/scratch-l10n-xxbc#readme",
+    "homepage": "https://github.com/weijiahui1/scratch-l10n-more#readme",
     "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",
